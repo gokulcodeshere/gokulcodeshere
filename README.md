@@ -1,6 +1,6 @@
 ## 👋Hi there, I'm Gokul
-🏫 Recent B.Tech graduate.
-🐍 I build web apps using Python and React. Occasionally, I also build confidence.
+- 🏫 Recent B.Tech graduate.
+- 🐍 I build web apps using Python and React. Occasionally, I also build confidence.
 
 ### 🚧 What I'm Building Right Now
 
